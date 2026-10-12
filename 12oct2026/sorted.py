@@ -1,2 +1,2 @@
-a = sorted(3, 1, 2)
-print(a)
+b=sorted((3,1,2))
+print(b)
